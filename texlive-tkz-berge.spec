@@ -6,7 +6,7 @@
 # catalog-version 1.00c
 Name:		texlive-tkz-berge
 Version:	1.00c
-Release:	3
+Release:	4
 Summary:	Macros for drawing graphs of graph theory
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-berge
