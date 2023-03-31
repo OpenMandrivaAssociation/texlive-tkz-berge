@@ -1,6 +1,6 @@
 Name:		texlive-tkz-berge
 Version:	57485
-Release:	1
+Release:	2
 Summary:	Macros for drawing graphs of graph theory
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-berge
