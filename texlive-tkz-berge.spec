@@ -3,7 +3,7 @@ Version:	57485
 Release:	2
 Summary:	Macros for drawing graphs of graph theory
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-berge
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-berge
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-berge.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-berge.doc.r%{version}.tar.xz
